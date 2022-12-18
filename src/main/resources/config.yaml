@@ -1,0 +1,55 @@
+browserConfig:
+  driverEnum: CHROME
+
+
+environment:
+  test:
+    active: true
+    appUrl: http://demoblaze.com
+    sing_in_id: signin2
+    register_button_value: register()
+    user_name_id: sign-username
+    user_password_id: sign-password
+    login_id: login2
+    login_button_value: logIn()
+    login_user_id: loginusername
+    password_user_id: loginpassword
+    category: Phones
+    cart_button_id: cartur
+    amount_message: Amount
+    currency: USD
+    month: December
+    purchase_message: Thank you for your purchase!
+    card_message: Card Number
+    name_message: Name
+    date_message: Date
+    logout_id: logout2
+
+  prod:
+    appUrl: http://demoblaze.com
+    sing_in_id: signin2
+    register_button_value: register()
+    user_name_id: sign-username
+    user_password_id: sign-password
+    login_id: login2
+    login_button_value: logIn()
+    login_user_id: loginusername
+    password_user_id: loginpassword
+    category: Phones
+    cart_button_id: cartur
+    amount_message: Amount
+    currency: USD
+    month: December
+    purchase_message: Thank you for your purchase!
+    card_message: Card Number
+    name_message: Name
+    date_message: Date
+    logout_id: logout2
+
+
+
+
+
+
+
+
